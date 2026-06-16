@@ -2,21 +2,13 @@ This is a professionally crafted README.md designed to make your GitHub reposito
 
 🚀 DevEstimator Pro
 
-!\[alt text](https://img.shields.io/badge/license-MIT-green)
+!\[License](https://img.shields.io/badge/license-MIT-green)
 
+!\[Version](https://img.shields.io/badge/version-1.0.0-blue)
 
+!\[Tech](https://img.shields.io/badge/tech-Vanilla%20JS-yellow)
 
-!\[alt text](https://img.shields.io/badge/version-1.0.0-blue)
-
-
-
-!\[alt text](https://img.shields.io/badge/tech-Vanilla%20JS-yellow)
-
-
-
-!\[alt text](https://img.shields.io/badge/css-Tailwind-blue)
-
-DevEstimator Pro (codenamed ScopeIt) is a high-performance, single-page application designed for freelancers and software engineers to bridge the gap between "guessing" and "proposing." It provides a professional dashboard to calculate project costs, delivery timelines, and risk buffers with surgical precision.
+!\[CSS](https://img.shields.io/badge/css-Tailwind-blue)DevEstimator Pro (codenamed ScopeIt) is a high-performance, single-page application designed for freelancers and software engineers to bridge the gap between "guessing" and "proposing." It provides a professional dashboard to calculate project costs, delivery timelines, and risk buffers with surgical precision.
 
 Live Demo Placeholder | Report Bug
 
